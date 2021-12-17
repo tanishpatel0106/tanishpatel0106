@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanishpatel0106
 - 👀 I’m interested in ... Cloud computing, core programming
-- 🌱 I’m currently learning ... Azure Cloud management services, python programming
-- 💞️ I’m looking to collaborate on ... Power Platform, Python development
+- 🌱 I’m currently learning ... Azure Cloud Services, Python, C++, C Languages
+- 💞️ I’m looking to collaborate on ... Power Platform, Python development, Competetive Programming
 - 📫 How to reach me ... Reach out on my Insta: @tanishpatel01
 
 <!---
