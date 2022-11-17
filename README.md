@@ -3,7 +3,7 @@
 I am Tanish Patel, currently a Student in COmputer Engineering at Pandit Deendayal Energy University, Gandhinagar, India.  I am an ambitious and a quick learner. My tech skills include Arduino, Raspberry Pi in Robotics, Machine Learning Algorithms in Python, Cloud Computing in Microsoft Azure. I am also certified in Azure Fundamentals: AZ-900, Azure AI Fundamentals: AI-900, Azure Power Platform Fundamentals: PL-900 and Azure Data Fundamentals: DP-900. I love to read blogs, articles, and research papers. My hobbies include playing sports like badminton and cricket, photography, and painting. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-tanishpatel0106-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanishpatel0106/)](https://www.linkedin.com/in/tanishpatel0106/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanishpatel0106@gmail.com)](mailto:tanishpatel0106@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tanishpatel0106@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanishpatel0106@gmail.com)](mailto:tanishpatel0106@gmail.com)
 
 
 <!-- ## ⚡ Technologies
