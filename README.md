@@ -6,7 +6,7 @@ I am Tanish Patel, currently a Student in COmputer Engineering at Pandit Deenday
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanishpatel0106@gmail.com)](mailto:tanishpatel0106@gmail.com)
 
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -16,7 +16,7 @@ I am Tanish Patel, currently a Student in COmputer Engineering at Pandit Deenday
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tanishpatel0106&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpatel0106&hide=TeX&layout=compact)
