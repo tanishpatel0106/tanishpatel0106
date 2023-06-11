@@ -18,7 +18,7 @@ As an ambitious and quick learner, I am always eager to take on new challenges a
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tanishpatel0106&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpatel0106&hide=TeX&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=tanishpatel0106&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpatel0106&hide=TeX&layout=compact) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tanishpatel0106.tanishpatel0106)
